@@ -78,7 +78,7 @@ public class KulkuvalineTest {
 
 	@Test
 	public void etsiMatkustaja() {
-		// just Jenkins test
+		// just Jenkins test 2
 		Kulkuvaline kulkuvaline = new Kulkuvaline(10, "1");
 		boolean result = kulkuvaline.lisaaMatkustaja(new Matkustaja("Pelle Peloton"));
 		result = kulkuvaline.lisaaMatkustaja(new Matkustaja("Roope Ankka"));

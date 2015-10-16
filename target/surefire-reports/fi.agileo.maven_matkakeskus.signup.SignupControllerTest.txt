@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: fi.agileo.maven_matkakeskus.signup.SignupControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.488 sec - in fi.agileo.maven_matkakeskus.signup.SignupControllerTest
